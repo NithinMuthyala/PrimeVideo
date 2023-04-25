@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.thumbnail {
+  height: 150px;
+  width: 250px;
+  margin: 10px;
+}
+.popup-container {
+  display: flex;
+  flex-direction: column;
+  /* border: 40px solid #ffffff; */
+  border-radius: 10px;
+  background-color: #ffffff;
+  padding: 40px;
+}
+button {
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
+.close-icon {
+  font-size: 27px;
+}
+.icon-container {
+  display: flex;
+  justify-content: flex-end;
+}
+.videoplayer {
+}

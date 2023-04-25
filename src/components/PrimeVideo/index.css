@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.background-color {
+  background-color: #000000;
+  min-height: 100vh;
+}
+.prime-image {
+  width: 100%;
+}
+.slider-container {
+  padding: 60px;
+}
+.action-heading {
+  color: #ffffff;
+  font-size: 24px;
+  font-weight: bold;
+}
